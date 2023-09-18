@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CraneGame",
+			"Path": "..\\Source\\CraneGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CraneGameEditor",
+			"Path": "..\\Source\\CraneGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
