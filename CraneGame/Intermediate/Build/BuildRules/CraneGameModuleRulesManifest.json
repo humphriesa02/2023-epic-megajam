@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"E:\\UnrealGames\\2023EpicGamesMegajam\\2023-epic-megajam\\CraneGame\\Source\\CraneGame\\CraneGame.Build.cs",
-		"E:\\UnrealGames\\2023EpicGamesMegajam\\2023-epic-megajam\\CraneGame\\Source\\CraneGame.Target.cs",
-		"E:\\UnrealGames\\2023EpicGamesMegajam\\2023-epic-megajam\\CraneGame\\Source\\CraneGameEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.0"
-}
